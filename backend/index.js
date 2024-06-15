@@ -22,4 +22,4 @@ const start = async () => {
 
 start()
 
-// app.listen(port, console.log(`server is listening on port ${port}...${process.env.MONGO_URL}`))
+
